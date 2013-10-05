@@ -1,3 +1,15 @@
+# Clojure Koans - Solutions and comments
+
+This is a fork with MY PERSONAL solutions and findings of the original [Clojure Koans](https://github.com/functional-koans/clojure-koans) repository.
+
+Spoiler Alert!
+
+If you don't want to know the answers for the koans, please, avoid reading this code.
+
+
+Thanks.
+
+
 # Clojure Koans
 
 The Clojure Koans are a fun and easy way to get started with Clojure - no
